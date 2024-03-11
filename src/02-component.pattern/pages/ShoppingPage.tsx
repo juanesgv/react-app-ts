@@ -1,4 +1,4 @@
-import ProductCard, { ProductButtons, ProductImage, ProductTitle } from "../components/ProductCard"
+import { ProductCard,ProductButtons, ProductImage, ProductTitle } from "../components"
 import coffeeImg from "/public/coffee-mug.png"
 
 
